@@ -12,5 +12,5 @@
 
 
 <div class="pics" style="margin-top:20px">
-  <img src="https://musatirgithub.github.io/CheckoutForm/FlagApp.gif" width="600px">
+  <img src="https://musatirgithub.github.io/FlagApp/FlagApp.gif" width="600px">
 </div>
